@@ -1,2 +1,14 @@
-# credit360-companion-frontend
-credit360-companion-frontend
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Env
+.env
